@@ -1,0 +1,10 @@
+Hello,git
+This is a pen
+Eat lunch
+strong
+<<<<<<< HEAD
+
+branch01
+=======
+Branch02
+>>>>>>> branch02
